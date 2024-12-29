@@ -123,7 +123,7 @@ function showCur(response) {
       document.body.style.color = "rgb(223, 223, 223)";
     } else if (T > dayNight[1] && T < dayNight[2]) {
       // Day
-      document.body.style.backgroundColor = "rgb(0, 170, 145)";
+      document.body.style.backgroundColor = "rgb(0, 139, 170)";
       document.body.style.color = "rgb(1, 1, 1)";
       document.getElementById("app").style.backgroundColor =
         "rgba(229, 229, 229, 0.8)";
